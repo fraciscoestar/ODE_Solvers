@@ -1,5 +1,5 @@
 CXX = g++
-CXXFLAGS = -Wall -Werror -Wextra -pedantic -std=c++17 -g
+CXXFLAGS = -Wall -Werror -Wextra -pedantic -std=c++17 -pthread -O0
 LDFLAGS = 
 
 SRC = main.cpp
