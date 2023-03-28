@@ -3,7 +3,7 @@
 #include <fstream>
 #include "ABMSolver.hpp"
 
-#define Cc_inv 1./0.2152
+#define Cc_inv (1./0.1059)
 #define Rc_inv 1000
 #define alpha 0.0386
 #define R0 230
